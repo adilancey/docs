@@ -14,8 +14,7 @@
   "navigation": [
     {
       "group": "Get Started",
-      "pages": ["introduction", "quickstart", "development"]
-    },
-  ],
-  "backgroundImage": "/background.png"
+      "pages": ["introduction", "quickstart"]
+    }
+  ]
 }
