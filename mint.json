@@ -18,19 +18,19 @@
     },
      {
       "group": "Creating and editing demos",
-      "pages": ["introduction", "quickstart", "chrome-extension","best-practices" ]
+      "pages": []
     },
       {
       "group": "Styling & branding",
-      "pages": ["introduction", "quickstart", "chrome-extension","best-practices" ]
+      "pages": []
     },
      {
       "group": "Sharing options",
-      "pages": ["introduction", "quickstart", "chrome-extension","best-practices" ]
+      "pages": []
     },
      {
       "group": "Integrations",
-      "pages": ["introduction", "quickstart", "chrome-extension","best-practices" ]
+      "pages": []
     }
   ],
    "footerSocials": {
