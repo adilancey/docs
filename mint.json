@@ -15,6 +15,15 @@
     {
       "group": "Documentation",
       "pages": ["introduction", "quickstart", "chrome-extension","best-practices" ]
+    },
+      {
+      "group": "Demo Creating",
+      "pages": ["introduction", "quickstart", "chrome-extension","best-practices" ]
     }
-  ]
+  ],
+   "footerSocials": {
+    "linkedin": "https://www.linkedin.com/company/getlancey"
+  },
+  "backgroundImage": "/background.png"
+
 }
