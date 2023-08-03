@@ -1,0 +1,71 @@
+
+
+# **Best Practices**
+
+If you're looking to optimize your demo conversion and follow some of the tried and true practices, keep reading!
+
+Lancey can be used for several different use cases so we'll cover the main ones and what outcomes impact conversion at each level. This guide is concise and to the point for a reason.
+
+# **Marketing**
+
+When it comes to leveraging Lancey demos for marketing, we're looking to drive visitors to a desired action (sign up, book a demo, talk to sales) as quickly as possible with the highest conversion.
+
+In order to create effective demos that can be embed on your marketing website, landing pages, and social media posts, you'll want to consider the following:
+
+# **Gated vs Un-gated demos**
+
+- Gated demos require users to provide their details before they can access the demo. The biggest advantage is being able to capture leads but you're likely to see less volume as it may deter some folks from providing their details.
+
+!https://d33v4339jhl8k0.cloudfront.net/docs/assets/63a0bb4c1e9b0d75c72746e6/images/6400b226188a9d242a7d6499/file-M9Clfds6eD.png
+
+- Un-gated demos allow anyone to view it without providing details.
+
+Both have a purpose but if you're just starting out, we recommend keeping your demos un-gated. You'll get more folks going through them, understand engagement, and make changes with more data!
+
+We aggregated data across all of our customers to understand the impact of gated vs un-gated demos. Here is the high level summary comparing gated vs ungated:
+
+- Un-gated demos had 177% more sessions
+- Average engagement of 79% (measure of how often visitors finished the entire demo)
+- Conversion rate of 6.7% (almost double vs gated when accounting for quality of leads and fake emails)
+
+!https://d33v4339jhl8k0.cloudfront.net/docs/assets/63a0bb4c1e9b0d75c72746e6/images/6400c2593c396c395ec0f683/file-ggWX59JViE.png
+
+# **Length of demo**
+
+- The next biggest impact on your demo will be the length of the demo itself. Now there are tons of different factors that go into this but across our data set we've found the longer your demo, higher the drop off. Humans have low attention span and you're best served grabbing their attention as quickly as possible.
+- The sweet spot to aim here is anywhere between 7-13 frames. You'll get the highest engagement before you start seeing big drop offs.
+- This doesn't mean you are limited to only 13 frames. It's best to introduce a call-to-action at various parts of the demo so you can guide them to an appropriate action.
+
+!https://d33v4339jhl8k0.cloudfront.net/docs/assets/63a0bb4c1e9b0d75c72746e6/images/6400c718c490cd5d5b96aa6d/file-3YSfA8rWPz.png
+
+# **Persona based**
+
+If you're selling a product that caters to multiple different personas, there are a few things to keep in mind.
+
+- Try to create and embed your demo on specific landing/feature pages that are relevant to the persona
+- Use Lancey's Experiment feature to ask users a series of questions before figuring out which demo to display
+- Break down the demos by using a tab approach so visitors can select the demo most relevant to them.
+
+!https://d33v4339jhl8k0.cloudfront.net/docs/assets/63a0bb4c1e9b0d75c72746e6/images/6400cbbb188a9d242a7d64c9/file-mvWtsBiOzN.png
+
+# **Sales**
+
+When you're using Lancey within a sales function, the rules are a bit different. You're more focused on getting buy-in from a champion or getting a meeting booked through outbound cold email.
+
+# **Un-gated, always**
+
+- For sales demos, we typically recommend leaving your demos un-gated. You likely already know who you're sending the demo too and its better to reduce friction from the process as much as possible.
+- You can use the mail-merge link option so each viewer gets attributed to a demo view automatically.
+
+!https://d33v4339jhl8k0.cloudfront.net/docs/assets/63a0bb4c1e9b0d75c72746e6/images/6400cd1a188a9d242a7d64cf/file-W2nilD2c4X.png
+
+# **Length of demo**
+
+- The demo length will vary here based on where you are at in the sales cycle.
+- For demos added as part of email sequence, we recommend following the length of anywhere between 7-13 frames
+
+!https://d33v4339jhl8k0.cloudfront.net/docs/assets/63a0bb4c1e9b0d75c72746e6/images/6400c718c490cd5d5b96aa6d/file-3YSfA8rWPz.png
+
+- As you get further along in the sales cycle and are showing more custom features specific to the buyer, you are play with the length
+
+Need more help or want to chat further about best practices specific to your use case? Reach out to your account manager or [contact us](mailto:support@getlancey.com) to set up time.
