@@ -13,7 +13,7 @@
   },
   "navigation": [
     {
-      "group": "Get Started",
+      "group": "Documentation",
       "pages": ["introduction", "quickstart", "chrome-extension","best-practices" ]
     }
   ]
