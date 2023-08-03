@@ -16,21 +16,21 @@
       "group": "Getting started",
       "pages": ["introduction", "quickstart", "chrome-extension","best-practices" ]
     },
-     {
+    {
       "group": "Creating and editing demos",
-      "pages": []
+      "pages": ["WIP"]
     },
       {
       "group": "Styling & branding",
-      "pages": []
+      "pages": ["WIP"]
     },
      {
       "group": "Sharing options",
-      "pages": []
+      "pages": ["WIP"]
     },
      {
       "group": "Integrations",
-      "pages": []
+      "pages": ["WIP"]
     }
   ],
    "footerSocials": {
