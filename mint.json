@@ -13,11 +13,23 @@
   },
   "navigation": [
     {
-      "group": "Documentation",
+      "group": "Getting started",
+      "pages": ["introduction", "quickstart", "chrome-extension","best-practices" ]
+    },
+     {
+      "group": "Creating and editing demos",
       "pages": ["introduction", "quickstart", "chrome-extension","best-practices" ]
     },
       {
-      "group": "Demo Creating",
+      "group": "Styling & branding",
+      "pages": ["introduction", "quickstart", "chrome-extension","best-practices" ]
+    },
+     {
+      "group": "Sharing options",
+      "pages": ["introduction", "quickstart", "chrome-extension","best-practices" ]
+    },
+     {
+      "group": "Integrations",
       "pages": ["introduction", "quickstart", "chrome-extension","best-practices" ]
     }
   ],
