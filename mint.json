@@ -13,24 +13,24 @@
   },
   "navigation": [
     {
-      "group": "Getting started",
-      "pages": ["introduction", "quickstart", "chrome-extension","best-practices" ]
+      "group": "Getting Started",
+      "pages": ["overview"]
     },
     {
-      "group": "Creating and editing demos",
-      "pages": ["demo-creation"]
+      "group": "Creating and Editing",
+      "pages": ["demo-creation","best-practices"]
     },
       {
-      "group": "Styling & branding",
+      "group": "Styling & Branding",
       "pages": ["WIP"]
     },
      {
-      "group": "Sharing options",
+      "group": "Publishing & Sharing",
       "pages": ["WIP"]
     },
      {
-      "group": "Integrations",
-      "pages": ["WIP"]
+      "group": "Integrations & Extension",
+      "pages": ["chrome-extension"]
     }
   ],
    "footerSocials": {
