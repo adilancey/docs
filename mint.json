@@ -39,7 +39,7 @@
     },
     {
       "group": "Creating and Editing",
-      "pages": ["demo-creation","best-practices"]
+      "pages": ["capture-demo","edit-demo","best-practices"]
     },
       {
       "group": "Styling & Branding",
