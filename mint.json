@@ -51,7 +51,7 @@
     },
      {
       "group": "Integrations & Extension",
-      "pages": ["chrome-extension"]
+      "pages": ["integrations","chrome-extension"]
     }
   ],
    "footerSocials": {
