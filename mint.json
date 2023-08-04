@@ -47,7 +47,7 @@
     },
      {
       "group": "Publishing & Sharing",
-      "pages": ["publish-demo"]
+      "pages": ["publish-demo","share-demo"]
     },
      {
       "group": "Integrations & Extension",
