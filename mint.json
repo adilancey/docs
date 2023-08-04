@@ -11,6 +11,16 @@
     "light": "#81D7F7",
     "dark": "#004E7A"
   },
+   "topbarLinks": [
+    {
+      "name": "Home page",
+      "url": "https://lancey.ai"
+    }
+  ],
+  "topbarCtaButton": {
+    "name": "Dashboard",
+    "url": "https://demo.lancey.ai"
+  },
   "navigation": [
     {
       "group": "Getting Started",
