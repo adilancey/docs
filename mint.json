@@ -51,7 +51,17 @@
     },
      {
       "group": "Integrations & Extension",
-      "pages": ["integrations","chrome-extension"]
+      "pages": [
+        {
+          "group": "Integrations",
+          "pages": [
+            "integrations/hubspot",
+            "integrations/salesforce",
+            "integrations/slack"
+          ]
+        },
+        "chrome-extension"
+      ]
     }
   ],
    "footerSocials": {
