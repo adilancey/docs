@@ -1,0 +1,84 @@
+---
+title: "Styling your demo"
+description: "Lancey provides tons of options to style your demos to match your brand guidelines."
+---
+
+There are two main things areas to keep in mind when it comes to styling your demos.
+
+## 1. Modals
+
+### Start frame
+
+- This is the first frame user get greeted with when they open the demo up. It also prompts them to start the demo.
+
+!https://d33v4339jhl8k0.cloudfront.net/docs/assets/63a0bb4c1e9b0d75c72746e6/images/63b5d840bfe3f971fb093b48/file-T5tfvtswb2.png
+
+- To customize the **Start frame**, open up your demo and find the frame titled "Start" on the left hand side. It will always be the first one.
+- Once you're on the frame, you'll see a preview in the middle and edit menu on the right hand side
+- You can update the **Title**, **Message**, **Button** text, and **Background** image. Remember to hit **Save** when you're done making changes.
+- The preview will get updated with your changes.
+
+!https://d33v4339jhl8k0.cloudfront.net/docs/assets/63a0bb4c1e9b0d75c72746e6/images/63b5d8eff6d1fb09b86ce6af/file-15bFDqErns.png
+
+# **Lead capture frame**
+
+- The lead capture frame within Lancey allows you to modify and style the lead form to capture information on prospects and users.
+- Example of the lead capture form below:
+
+!https://d33v4339jhl8k0.cloudfront.net/docs/assets/63a0bb4c1e9b0d75c72746e6/images/63b5da6ff6d1fb09b86ce6b1/file-lyFIXrhMgf.png
+
+- To customize the **lead capture form**, open up your demo and find the frame titled "**Lead**" on the left hand side. It will always be the second frame on the list.
+- Once you're on the frame, you'll see a preview in the middle and edit menu on the right hand side
+- You can update the **Title**, **Message**, **Submit button** text, and control what type of information you want to collect form users when they fill out the form.
+
+To gate the demo and ensure no one can view it until they fill out the form, **remember to enable the "Enable gated demo" toggle from the menu**.
+
+- Hit **Save** when you're done making changes.
+- The preview will get updated with your changes.
+
+# **End frame**
+
+- This is the last frame user see with when they get to the end of the demo. It also prompts them to take follow-up actions such as sign up, book a time, or contact sales.
+
+!https://d33v4339jhl8k0.cloudfront.net/docs/assets/63a0bb4c1e9b0d75c72746e6/images/63b5dc17e0d50f555584009f/file-oUe1nOKFIv.png
+
+- To customize the **End frame**, open up your demo and find the frame titled "End" on the left hand side. It will always be the last frame on the list.
+- Once you're on the frame, you'll see a preview in the middle and edit menu on the right hand side
+
+!https://d33v4339jhl8k0.cloudfront.net/docs/assets/63a0bb4c1e9b0d75c72746e6/images/63b5dcf0d0b6de7e3be2a579/file-nUyspwGyhh.png
+
+- You can update the **Title**, **Message**, **Type of action**, **Button** text, and **Background** image.
+    - The Type of action dropdown lets you control if you want viewers to see a Lancey lead capture form or send them to a custom link.
+
+!https://d33v4339jhl8k0.cloudfront.net/docs/assets/63a0bb4c1e9b0d75c72746e6/images/63b5dc93bfe3f971fb093b4c/file-Y0JRsNQp54.png
+
+- Remember to hit **Save** when you're done making changes.
+- The preview will get updated with your changes.
+
+## 2. Styling the colours and fonts
+
+Let's cover the basics on how to style the colours and fonts within Lancey.
+
+This applies to:
+
+- **Start frame**
+- **End frame**
+- **Lead capture frame**
+- **Tooltips**
+- **Hotspots**
+
+To access the styling menu, make sure you're on [Demo edit mode](https://help.lancey.io/article/9-editing-a-demo). From there locate the **Styles and fonts button** at the top of the bar.
+
+!https://d33v4339jhl8k0.cloudfront.net/docs/assets/63a0bb4c1e9b0d75c72746e6/images/63b5ed27b31bcd14df2c4078/file-rqBjIPbZzA.png
+
+Once you click on the button, you'll be presented with a menu that covers all of the options you have at your disposal to apply different styling and font options.
+
+Any changes you make will be displayed on the preview for both **Hotspot** and **Tooltip**.
+
+!https://d33v4339jhl8k0.cloudfront.net/docs/assets/63a0bb4c1e9b0d75c72746e6/images/63b5ed91d0b6de7e3be2a58f/file-zZbDKEJqu1.png
+
+!https://d33v4339jhl8k0.cloudfront.net/docs/assets/63a0bb4c1e9b0d75c72746e6/images/63b5eeb2f6d1fb09b86ce6d1/file-qqVVokwZp2.png
+
+You can also control the **font options** under the **Advanced** dropdown.
+
+!https://d33v4339jhl8k0.cloudfront.net/docs/assets/63a0bb4c1e9b0d75c72746e6/images/63b5eeefe0d50f55558400b8/file-yACYmmYnqT.png
