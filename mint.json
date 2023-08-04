@@ -13,13 +13,18 @@
   },
    "topbarLinks": [
     {
-      "name": "Home page",
-      "url": "https://lancey.ai"
+      "name": "Home",
+      "url": "https://lancey.io"
+    },
+     {
+      "name": "Support",
+      "url": "mailto:support@getlancey.com"
     }
+     
   ],
   "topbarCtaButton": {
     "name": "Dashboard",
-    "url": "https://demo.lancey.ai"
+    "url": "https://app.getlancey.com"
   },
   "navigation": [
     {
