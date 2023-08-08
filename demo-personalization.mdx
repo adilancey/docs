@@ -52,5 +52,14 @@ If you've enabled the Lancey lead capture form on your demos, the `First Name`, 
 
 For example, if `Michael Jordan` was viewing your demo, every reference to `First Name` would be swapped with `Michael` and `Last Name` with `Jordan`.
 
-
 #### Passing values through URL
+
+Lancey also supports passing in the values for variables through the URL. This is the preferred approach when you have custom variables or want to pass in information that isn't being provided by the viewed explicitly.
+
+This applies to any URL you've created. Let's use an example to illustrate.
+
+If this was your demo link: `https://app.getlancey.com/demo/45b8b6cddc1a4980a67d48f9f2b7ab01?`
+
+And you wanted to pass in the following values for variables named `CompanyName` = `Netflix and `Email` = `reed@netflix.com` you can modify the URL so it reads:
+
+`https://app.getlancey.com/demo/45b8b6cddc1a4980a67d48f9f2b7ab01?CompanyName=netflix&email=reed@netflix.com`
