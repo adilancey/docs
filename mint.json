@@ -51,7 +51,7 @@
     },
      {
       "group": "Settings",
-      "pages": ["org-details","adding-removing-users"]
+      "pages": ["company-details","adding-removing-users"]
     },
      {
       "group": "Integrations & Extension",
