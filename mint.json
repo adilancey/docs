@@ -39,7 +39,7 @@
     },
     {
       "group": "Creating and Editing",
-      "pages": ["capture-demo","edit-demo","demo-personalization","best-practices"]
+      "pages": ["capture-demo","edit-demo","demo-personalization","demo-organization","best-practices"]
     },
       {
       "group": "Styling & Branding",
@@ -48,6 +48,10 @@
      {
       "group": "Publishing & Sharing",
       "pages": ["publish-demo","share-demo","showcase"]
+    },
+     {
+      "group": "Settings",
+      "pages": ["org-details","adding-removing-users"]
     },
      {
       "group": "Integrations & Extension",
