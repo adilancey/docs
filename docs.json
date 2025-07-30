@@ -21,18 +21,18 @@
             ]
           },
           {
+            "group": "Tasks",
+            "pages": [
+              "tasks/create",
+              "tasks/manage"
+            ]
+          },
+          {
             "group": "Integrations",
             "pages": [
               "integrations/settings",
               "integrations/github",
               "integrations/slack"
-            ]
-          },
-           {
-            "group": "Tasks",
-            "pages": [
-              "tasks/create",
-              "tasks/manage"
             ]
           },
           {
