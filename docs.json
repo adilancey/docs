@@ -11,7 +11,7 @@
   "navigation": {
     "tabs": [
       {
-        "tab": "Guides",
+        "tab": "Documentation",
         "groups": [
           {
             "group": "Getting started",
@@ -22,27 +22,25 @@
             ]
           },
           {
+            "group": "Integrations",
+            "pages": [
+              "integrations/settings",
+              "integrations/github",
+              "integrations/slack"
+            ]
+          },
+          {
             "group": "Customization",
             "pages": [
-              "essentials/settings",
-              "essentials/navigation"
+              "customize/rules"
             ]
           },
           {
-            "group": "Writing content",
+            "group": "Agents",
             "pages": [
-              "essentials/markdown",
-              "essentials/code",
-              "essentials/images",
-              "essentials/reusable-snippets"
-            ]
-          },
-          {
-            "group": "AI tools",
-            "pages": [
-              "ai-tools/cursor",
-              "ai-tools/claude-code",
-              "ai-tools/windsurf"
+              "agents/create",
+              "agents/manage",
+              "agents/templates"
             ]
           }
         ]
