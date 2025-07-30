@@ -28,6 +28,13 @@
               "integrations/slack"
             ]
           },
+           {
+            "group": "Tasks",
+            "pages": [
+              "tasks/create",
+              "tasks/manage"
+            ]
+          },
           {
             "group": "Customization",
             "pages": [
