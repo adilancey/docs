@@ -1,8 +1,71 @@
 ---
-title: "New task"
-description: "Tasks represent a unit of work being performed in Lancey. They end up as PRs but start as a task."
+title: "Tasks"
+description: "Tasks are the core unit of work in Lancey. They represent actionable fixes or improvements that your team can review, approve, and resolve, all powered by AI. "
 ---
 
-### New task
+## What is a task?
 
-Typically you can 
+A task is a suggested change or bug fix that Lancey generates based on incoming issues or manual input. Each task includes:
+
+- **Context**: The source of the issue (GitHub, Zendesk, Intercom, etc.)
+- **Proposed plan**: How Lancey suggests solving the problem
+- **Next actions**: Approve, edit, or dismiss the task
+
+## How tasks are created
+
+### 1. From GitHub issues
+
+- When a new issue is opened in your connected GitHub repository, Lancey automatically analyzes it.
+- If the issue is deemed to be a bug or feature improvement, a task will be created and linked back to the original GitHub issue.
+
+### 2. From customer support tickets
+
+- Lancey integrates with Zendesk, Intercom, and other platforms.
+- High‑impact customer tickets are converted into tasks with relevant context for Lancey to work on.
+
+### 3. Manually created by users
+
+- Go to the **Tasks** tab in your dashboard.
+- Give a prompt in the chat input box
+- Lancey will plan out a resolution path, including any code changes required.
+
+---
+
+## Managing Tasks
+
+### Reviewing a Task
+
+- Open a task from your dashboard.
+- Review the context and Lancey’s proposed solution.
+- If applicable, view the linked draft PR.
+
+### Approving a Task
+
+- Click **Approve** to confirm the suggested fix.
+- Lancey will automatically create a pull request in GitHub.
+
+### Editing a Task
+
+- You can refine the task description or solution plan before approval.
+- Changes will be reflected in the generated PR.
+
+### Dismissing a Task
+
+- If a task is irrelevant, click **Dismiss** to remove it from your queue.
+
+---
+
+## Best Practices
+
+- **Prioritize**: Focus on tasks tied to critical bugs or customer impact first.
+- **Collaborate**: Tag team members on tasks to review solutions.
+- **Stay aligned**: Use Slack notifications to keep your team in the loop.
+
+---
+
+## Next Steps
+
+- [Set up GitHub Integration](/integrations/github) if you haven’t already
+- Invite your team to collaborate on tasks
+
+---
