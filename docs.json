@@ -24,7 +24,7 @@
             "group": "Tasks",
             "pages": [
               "tasks/create",
-              "tasks/manage"
+              "tasks/modify"
             ]
           },
           {
