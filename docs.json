@@ -40,14 +40,6 @@
             "pages": [
               "customize/rules"
             ]
-          },
-          {
-            "group": "Agents",
-            "pages": [
-              "agents/create",
-              "agents/manage",
-              "agents/templates"
-            ]
           }
         ]
       }
