@@ -1,5 +1,27 @@
 ---
-title: 'Slack'
-description: 'Description of your new file.'
+title: "Slack"
+description: "Setting up Slack connecting for notifications and alerts."
 ---
 
+If you want notifications when a new task is created or PR is ready to merge, set up the Lancey Slack connector so you can manage the agents from within Slack.
+
+<Steps>
+  <Step title="Integrations">
+    Head to [Integrations](https://platform.lancey.ai/settings/integrations/slack.com) page
+  </Step>
+  <Step title="Connecting Slack">
+    Click on the **Slack **connector  
+  </Step>
+  <Step title="Selecting workspace">
+    Complete the login flow that pops up in the Slack domain. Choose **the workspace** that you want to connect to Lancey.  
+  </Step>
+  <Step title="Selecting channel" stepNumber={4}>
+    Pick the **channel** you want Lancey to send notifications in. Typically this would be #engineering or #engineering-alert type of channel if you use something similar internally. 
+  </Step>
+</Steps>
+
+Once the connection is set up, you can also connect your personal account to recieve notifications directly from the Lancey bot instead of a channel.
+
+<Note>
+  Remember to have your [notification](https://platform.lancey.ai/settings/notifications) preferences enabled for Slack after you've completed the setup.
+</Note>
