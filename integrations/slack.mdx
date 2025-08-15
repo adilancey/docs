@@ -1,7 +1,9 @@
 ---
 title: "Slack"
-description: "Setting up Slack connecting for notifications and alerts."
+description: "Set up Slack to trigger tasks directly and get notifications when tasks are completed."
 ---
+
+## Setup
 
 If you want notifications when a new task is created or PR is ready to merge, set up the Lancey Slack connector so you can manage the agents from within Slack.
 
@@ -17,6 +19,8 @@ If you want notifications when a new task is created or PR is ready to merge, se
   </Step>
   <Step title="Selecting channel" stepNumber={4}>
     Pick the **channel** you want Lancey to send notifications in. Typically this would be #engineering or #engineering-alert type of channel if you use something similar internally.
+
+    ![Task Pn](/images/task-.png)
   </Step>
 </Steps>
 
@@ -25,3 +29,11 @@ Once the connection is set up, you can also connect your personal account to rec
 <Note>
   Remember to have your [notification](https://platform.lancey.ai/settings/notifications) preferences enabled for Slack after you've completed the setup.
 </Note>
+
+## Starting a task
+
+You can assign Lancey to work on a task directly from Slack. Once the Slack connection is established, you can simply mention @Lancey within a thread.
+
+![image.png](/images/image.png)
+
+You can also mention @Lancey in comments of a thread if you want it to pick up a task.
